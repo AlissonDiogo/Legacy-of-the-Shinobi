@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 42daa98038fb1cf41a50cf896a4efe44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -388657986143478157
+    second: DS parte 1-Photoroom_0
+  - first:
+      213: -4681949467664899376
+    second: DS parte 1-Photoroom_1
+  - first:
+      213: -3112402742527755610
+    second: DS parte 1-Photoroom_2
+  - first:
+      213: 23681885958719616
+    second: DS parte 1-Photoroom_3
+  - first:
+      213: -5054484047383164853
+    second: DS parte 1-Photoroom_4
+  - first:
+      213: -2392668057442270866
+    second: DS parte 1-Photoroom_5
+  - first:
+      213: -7963979949888401091
+    second: DS parte 1-Photoroom_6
+  - first:
+      213: 6337438510204451836
+    second: DS parte 1-Photoroom_7
+  - first:
+      213: -2456299273018160454
+    second: DS parte 1-Photoroom_8
+  - first:
+      213: -5050968647578492431
+    second: DS parte 1-Photoroom_9
+  - first:
+      213: -4752354673048649838
+    second: DS parte 1-Photoroom_10
+  - first:
+      213: -5246481768550126756
+    second: DS parte 1-Photoroom_11
+  - first:
+      213: -5578465808456678565
+    second: DS parte 1-Photoroom_12
+  - first:
+      213: 3332113198620404099
+    second: DS parte 1-Photoroom_13
+  - first:
+      213: 5093976286457846979
+    second: DS parte 1-Photoroom_14
+  - first:
+      213: -6380865044082632490
+    second: DS parte 1-Photoroom_15
+  - first:
+      213: -5135887294407287041
+    second: DS parte 1-Photoroom_16
+  - first:
+      213: -4057825066231954370
+    second: DS parte 1-Photoroom_17
+  - first:
+      213: 8803879803655286255
+    second: DS parte 1-Photoroom_18
+  - first:
+      213: 229373202751148294
+    second: DS parte 1-Photoroom_19
+  - first:
+      213: 2571078114697317611
+    second: DS parte 1-Photoroom_20
+  - first:
+      213: 9187637218261921088
+    second: DS parte 1-Photoroom_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 249
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e9cccee953b9af0800000000000000
+      internalID: -388657986143478157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 215
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d22183e3cf560fb0800000000000000
+      internalID: -4681949467664899376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 249
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7ea522368ec4d0800000000000000
+      internalID: -3112402742527755610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 215
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0884e20cc82245000800000000000000
+      internalID: 23681885958719616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 215
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4809d8e98ddad9b0800000000000000
+      internalID: -5054484047383164853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 249
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61cab224198bced0800000000000000
+      internalID: -2392668057442270866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 147
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3191983e624a7190800000000000000
+      internalID: -7963979949888401091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 181
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbfd927fba13f750800000000000000
+      internalID: 6337438510204451836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 181
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac3b143d879edd0800000000000000
+      internalID: -2456299273018160454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 147
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e275b6ca57e9b0800000000000000
+      internalID: -5050968647578492431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 181
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f744a9a9e3c0eb0800000000000000
+      internalID: -4752354673048649838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 147
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba109e0a0c037b0800000000000000
+      internalID: -5246481768550126756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53074737ee4592b0800000000000000
+      internalID: -5578465808456678565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e823cc4b0e3e20800000000000000
+      internalID: 3332113198620404099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 112
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc5598817071b640800000000000000
+      internalID: 5093976286457846979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85fb7bc0d9277a0800000000000000
+      internalID: -6380865044082632490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe596287b9a9b8b0800000000000000
+      internalID: -5135887294407287041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 76
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34819ef995bfa7c0800000000000000
+      internalID: -4057825066231954370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 42
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedeb16590aad2a70800000000000000
+      internalID: 8803879803655286255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 42
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601d9fe66b5ee2300800000000000000
+      internalID: 229373202751148294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec80545ced4ea320800000000000000
+      internalID: 2571078114697317611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS parte 1-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de8af2f5b018f70800000000000000
+      internalID: 9187637218261921088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS parte 1-Photoroom_0: -388657986143478157
+      DS parte 1-Photoroom_1: -4681949467664899376
+      DS parte 1-Photoroom_10: -4752354673048649838
+      DS parte 1-Photoroom_11: -5246481768550126756
+      DS parte 1-Photoroom_12: -5578465808456678565
+      DS parte 1-Photoroom_13: 3332113198620404099
+      DS parte 1-Photoroom_14: 5093976286457846979
+      DS parte 1-Photoroom_15: -6380865044082632490
+      DS parte 1-Photoroom_16: -5135887294407287041
+      DS parte 1-Photoroom_17: -4057825066231954370
+      DS parte 1-Photoroom_18: 8803879803655286255
+      DS parte 1-Photoroom_19: 229373202751148294
+      DS parte 1-Photoroom_2: -3112402742527755610
+      DS parte 1-Photoroom_20: 2571078114697317611
+      DS parte 1-Photoroom_21: 9187637218261921088
+      DS parte 1-Photoroom_3: 23681885958719616
+      DS parte 1-Photoroom_4: -5054484047383164853
+      DS parte 1-Photoroom_5: -2392668057442270866
+      DS parte 1-Photoroom_6: -7963979949888401091
+      DS parte 1-Photoroom_7: 6337438510204451836
+      DS parte 1-Photoroom_8: -2456299273018160454
+      DS parte 1-Photoroom_9: -5050968647578492431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

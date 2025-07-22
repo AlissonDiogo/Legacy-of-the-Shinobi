@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "UIWindows",
+    "maps": [
+        {
+            "name": "UIManager",
+            "id": "f4e43048-f610-4081-9c56-7067e3aa4cfd",
+            "actions": [
+                {
+                    "name": "StatusWindow",
+                    "type": "Button",
+                    "id": "1fd8f964-c42c-40f9-a909-11a58237bedb",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f11bb2b8-be90-46bf-8642-29a3f6b2ad39",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "StatusWindow",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
